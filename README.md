@@ -1,2 +1,2 @@
 # Pratice-2
-practice practice ^_^
+practice practice
